@@ -4,4 +4,5 @@ lib/
 include/
 depends/
 ./curltest_tfo.depend
+curltest_tfo.depend
 
