@@ -1,0 +1,7 @@
+obj/
+bin/
+lib/
+include/
+depends/
+./curltest_tfo.depend
+
